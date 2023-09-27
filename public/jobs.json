@@ -1,0 +1,146 @@
+[
+    {
+      "id": 1,
+      "cover":"https://i.ibb.co/jg2NNN2/Health.png", 
+      "title": "Health",
+      "introduction": "Clean water for children.",
+      "description": "Health is a state of complete physical, mental, and social well-being, not merely the absence of disease or infirmity. It encompasses a balanced lifestyle that includes regular exercise, a nutritious diet, adequate sleep, and stress management.",
+      "price": 19.99,
+      "color": "Red",
+      "tcolor": "DarkRed",
+      "bgcolor":"Salmon"
+      
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/MgmH4W9/Education.png",
+      "title": "Education",
+      "introduction": "Good Education",
+      "description": "Education is the process of acquiring knowledge, skills, values, and understanding through various formal and informal means. It is a lifelong journey that empowers individuals to develop their potential, broaden their horizons, and contribute to society.",
+      "price": 29.99,
+      "color": "Indigo",
+      "tcolor": "blue",
+      "bgcolor":"violet"
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/QrysxWp/Clothing.png",
+      "title": "Clothing",
+      "introduction": "Use Clothing Drive",
+      "description": "Clothing, also known as apparel or attire, is a fundamental aspect of human culture and daily life. It refers to items or articles worn on the body for various purposes, including protection, modesty, comfort, and style. ",
+      "price": 24.99,
+      "color": "HotPink ",
+      "tcolor": "Pink",
+      "bgcolor":"LightPink"
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/BZf70wZ/Food.png",
+      "title": "Food",
+      "introduction": "Better Food Everyday",
+      "description": "Food is essential for human survival and plays a central role in our lives. It provides the necessary nutrients and energy for the body to function, grow, and maintain health",
+      "price": 14.99,
+      "color": "Green",
+      "tcolor": "Olive",
+      "bgcolor":"LimeGreen"
+    },
+    
+    
+   
+    {
+      "id": 8,
+      "cover": "https://i.ibb.co/jzTYWRV/food2.jpg",
+      "title": "Food",
+      "introduction": "Better Food Everyday",
+      "description": "Food is essential for human survival and plays a central role in our lives. It provides the necessary nutrients and energy for the body to function, grow, and maintain health",
+ 
+      "price": 19.99,
+      "color": "Green",
+      "tcolor": "Olive",
+      "bgcolor":"LimeGreen"
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co/rQphZ89/banner1.jpg",
+      "title": "Clothing",
+      "introduction": "Use Clothing Drive",
+      "description": "Clothing, also known as apparel or attire, is a fundamental aspect of human culture and daily life. It refers to items or articles worn on the body for various purposes, including protection, modesty, comfort, and style. ",
+
+      "price": 44.99,
+      "color": "HotPink ",
+      "tcolor": "Pink",
+      "bgcolor":"LightPink"
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co/99fnDrz/edu2.jpg",
+      "title": "Education",
+      "introduction": "Good Education",
+      "description": "Education is the process of acquiring knowledge, skills, values, and understanding through various formal and informal means. It is a lifelong journey that empowers individuals to develop their potential, broaden their horizons, and contribute to society.",
+
+      "price": 39.99,
+      "color": "Indigo",
+      "tcolor": "blue",
+      "bgcolor":"violet"
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/dbC1ZXM/health2.jpg",
+      "title": "Health",
+      "introduction": "Clean water for children.",
+      "description": "Health is a state of complete physical, mental, and social well-being, not merely the absence of disease or infirmity. It encompasses a balanced lifestyle that includes regular exercise, a nutritious diet, adequate sleep, and stress management.",
+     
+      "price": 34.99,
+      "color": "Red",
+      "tcolor": "DarkRed",
+      "bgcolor":"Salmon"
+    },
+    {
+      "id": 10,
+      "cover": "https://i.ibb.co/7VZ26DX/edu1.jpg",
+      "title": "Education",
+      "introduction": "Good Education",
+      "description": "Education is the process of acquiring knowledge, skills, values, and understanding through various formal and informal means. It is a lifelong journey that empowers individuals to develop their potential, broaden their horizons, and contribute to society.",
+      "price": 34.99,
+      "color": "Indigo",
+      "tcolor": "blue",
+      "bgcolor":"violet"
+    },
+    {
+      "id": 9,
+      "cover": "https://i.ibb.co/99kHHFF/health.jpg",
+      "title": "Health",
+      "introduction": "Clean water for children.",
+      "description": "Health is a state of complete physical, mental, and social well-being, not merely the absence of disease or infirmity. It encompasses a balanced lifestyle that includes regular exercise, a nutritious diet, adequate sleep, and stress management.",
+     
+      "price": 29.99,
+      "color": "Red",
+      "tcolor": "DarkRed",
+      "bgcolor":"Salmon"
+    },
+    
+    {
+      "id": 11,
+      "cover": "https://i.ibb.co/KNgh53K/cloth3.jpg",
+      "title": "Clothing",
+      "introduction": "Use Clothing Drive",
+      "description": "Clothing, also known as apparel or attire, is a fundamental aspect of human culture and daily life. It refers to items or articles worn on the body for various purposes, including protection, modesty, comfort, and style. ",
+
+      "price": 24.99,
+      "color": "HotPink ",
+      "tcolor": "Pink",
+      "bgcolor":"LightPink"
+    },
+    
+    {
+      "id": 12,
+      "cover": "https://i.ibb.co/86dnHbD/food1.jpg",
+      "title": "Food",
+      "introduction": "Better Food Everyday",
+      "description": "Food is essential for human survival and plays a central role in our lives. It provides the necessary nutrients and energy for the body to function, grow, and maintain health",
+      "price": 49.99,
+      "color": "Green",
+      "tcolor": "Olive",
+      "bgcolor":"LimeGreen"
+    }
+  ]
