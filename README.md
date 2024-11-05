@@ -46,7 +46,8 @@
 **Visual Appeal:** The page is designed to be visually appealing, with a layout that enhances the presentation of the donation details. This includes appropriate typography, spacing, and alignment to ensure readability and aesthetics.
 
 **Responsive Design:** The Donation Details Page is designed to be responsive, providing a seamless viewing experience on various devices and screen sizes, including desktops, tablets, and mobile phones.
-#Tools and Technologies:
+
+# Tools and Technologies:
 
 **HTML5:** Provides the structure and semantic elements of web pages.
 
